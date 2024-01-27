@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ABHISHEK SHUKLA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+  <center>  <h1 align="center">Hi 👋, I'm ABHISHEK SHUKLA</h1>  </center>      
+<center><h3 height=250 width=450">A passionate frontend developer from India</h3></center>
 
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
