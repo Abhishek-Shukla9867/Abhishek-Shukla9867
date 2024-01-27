@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK SHUKLA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-shukla9867&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-shukla9867" /> </p>
 
