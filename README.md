@@ -14,6 +14,7 @@
 ### 🧾 About Me
 
 - 🔍 Working on <strong>Exploit Development & Red Team Simulations</strong>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/abhishekshukla0986749.png" alt="Your Image Badge" />
 - ⚙️ Skilled in <strong>Reconnaissance, Privilege Escalation, Web Exploitation, OSINT, Malware Analysis</strong>
 - 💻 Building tools for <strong>Password Cracking, Payload Generation, Network Scanning</strong>
 - 🎯 Active in <strong>Bug Bounty Hunting & CTF Competitions</strong>
